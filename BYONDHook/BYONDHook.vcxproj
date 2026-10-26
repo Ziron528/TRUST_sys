@@ -24,7 +24,6 @@
     <ProjectGuid>{11034b53-c3ac-4e15-9d8b-14795184f699}</ProjectGuid>
     <RootNamespace>BYONDHook</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>BYONDHook</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
